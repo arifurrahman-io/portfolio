@@ -12,3 +12,7 @@ font-family: 'Edu SA Beginner', cursive;
 </style>
 
 font-family: 'Roboto Condensed', sans-serif;
+
+
+--fontawesome--
+<script src="https://kit.fontawesome.com/f91b28321f.js" crossorigin="anonymous"></script>
