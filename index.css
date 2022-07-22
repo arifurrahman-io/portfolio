@@ -197,7 +197,7 @@ main {
 }
 
 .cards {
-
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
@@ -214,8 +214,8 @@ main {
 }
 
 .service-card img {
-    width: 200px;
-    height: 180px;
+    width: 60%;
+    height: 40%;
     margin-bottom: 30px;
 }
 
