@@ -129,12 +129,6 @@ main {
 
 }
 
-.section-half-width a {
-    width: 90px;
-    padding: 5px 10px;
-
-}
-
 .photo-icons {
     display: flex;
     flex-direction: column;
@@ -236,9 +230,14 @@ main {
         margin-right: auto;
     }
 
+    .skills {
+        padding: 50px 0px;
+    }
+
     .skills-block {
         display: flex;
         flex-direction: column;
+        padding: 20px 0px;
     }
 
     .skill-list img {
@@ -248,5 +247,6 @@ main {
 
     .skill-list {
         font-size: 22px;
+        justify-content: end;
     }
 }
