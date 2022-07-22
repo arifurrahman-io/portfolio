@@ -10,6 +10,10 @@
     margin: 0%;
 }
 
+main {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 .header {
     display: flex;
     position: sticky;
@@ -68,7 +72,6 @@
     margin-top: 50px;
     width: 80%;
     border-radius: 10px;
-    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .hero {
@@ -236,5 +239,14 @@
     .skills-block {
         display: flex;
         flex-direction: column;
+    }
+
+    .skill-list img {
+        width: 35px;
+        margin: 10px;
+    }
+
+    .skill-list {
+        font-size: 22px;
     }
 }
